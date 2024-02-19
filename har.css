@@ -1,0 +1,105 @@
+.header{
+    background-color: rgb(0, 156, 218);
+    position: relative;padding-top:.5%;
+    padding-bottom:1%;
+    color:white;
+    line-height: 50%;
+    font-size: 14px;
+    border: 5PX solid black;
+
+    
+}
+.logo{
+    position: relative;
+    bottom: 18%;
+    left: 10%;
+    border-radius: 5rem;
+    
+}
+
+.const{
+    
+    padding-top:3px;
+    position: relative;
+    bottom: 7rem;
+    
+   
+    
+}
+.const1{
+    background-color: rgb(0, 156, 218) ;
+    padding: 4px;
+    border: 3px solid black;
+    border: radius 18px;;
+    position: relative;
+    top:-15.2%;
+    height: 5%;
+}
+.const1 a{
+    
+    
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    padding-right: 50px;
+    border-left: 1px solid black;
+    bottom: 20%;
+    
+
+}
+.const1 a:hover{
+    color:black;
+}
+.const3{
+  background-color: rgb(179, 221, 221);
+    width: 15%;
+    height: 45%;position: relative;
+    top: 5rem;
+    left: 1rem;
+    
+    
+    
+    border-radius: 5%;
+}
+.div4{
+    position: relative;
+    bottom: 6.6rem;
+    border: 1px solid black;
+    padding-bottom: 34rem;
+    
+  
+}
+.div4 a:hover{
+    color:blue;
+}
+.div4 .per img{
+    width: -13rem;
+    position: relative;
+    left: 5rem;
+    bottom: -4rem;
+    
+}
+.per{
+    border: 1px solid black;
+    position: relative;
+    left: 17rem;
+    bottom: 15rem;
+    padding-bottom: rem;
+    background-color:gainsboro;
+    height: 60rem;
+    width: 65rem;
+}
+.per .tab{
+    position: relative;
+    top: 5rem;
+    left: 17rem;
+}
+.per .const6{
+    position: relative;
+    left: 11rem;
+    bottom: -7rem;
+    width: 52rem;
+}
+.per .const6 .a{
+    color: green;
+}
